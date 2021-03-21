@@ -24,5 +24,5 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
-  - simula
+  - simula-logo
 ---

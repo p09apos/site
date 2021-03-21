@@ -9,6 +9,7 @@ events:
   - xerox-star-pc
   - apple-macintosh-1984
   - apple-newton
+  - apple-lisa
   - windows95
 ---
 

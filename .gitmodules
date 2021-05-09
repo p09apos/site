@@ -17,3 +17,6 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/p09apos/images.git
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/p09apos/extras.git
